@@ -1,4 +1,4 @@
-package main.java;
+package main.java.previousYear;
 
 import java.util.Scanner;
 import java.lang.*;
